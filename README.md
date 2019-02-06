@@ -8,4 +8,13 @@ Deep learning based OpenPose estimation.
 
 ## Reference paper:-  
 
-1. https://arxiv.org/pdf/1611.08050.pdf
+1. https://arxiv.org/pdf/1611.08050.pdf.  
+
+
+## Important terms used in the reference paper:-
+
+1. Confidence Maps.  
+2. L2 Loss.  
+3. Confidence Maps.  
+4. Affinity fields.  
+
