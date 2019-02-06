@@ -18,3 +18,9 @@ Deep learning based OpenPose estimation.
 3. Confidence Maps.  
 4. Affinity fields.  
 
+## Requirements:-  
+
+1. Caffe:- 1.0.  
+2. Python 3.6 and above.  
+
+
