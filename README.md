@@ -25,3 +25,9 @@ Deep learning based OpenPose estimation.
 3. OpenCV 3.4.1 and above.  
 
 
+## Codes available in:-
+
+1. Python.  
+2. C++.  
+
+
